@@ -1,4 +1,4 @@
-# Token
+# Error Handling
 
 This Solidity program is a simple "Error" program that demonstrates the basic assert, requier and revert functionality of solidity programming language. The purpose of this program is to demonstrate the functioning of the various error control methods in solidity and explain their functioning.
 ## Description
